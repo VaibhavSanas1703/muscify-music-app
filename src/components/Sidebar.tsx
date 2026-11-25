@@ -77,7 +77,6 @@ export function Sidebar({
                         </svg>
                     </span>
                     <span>Muscify</span>
-                    <p>By Vaibhav Sanas</p>
                 </button>
                 <button
                     type="button"
