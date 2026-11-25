@@ -1,0 +1,6 @@
+{
+  "name": "Bitchord",
+  "description": "Fast, offline-first music streaming web app with localStorage persistence for liked songs, recently played tracks, and personal playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
